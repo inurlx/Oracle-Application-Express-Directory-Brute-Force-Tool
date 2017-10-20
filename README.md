@@ -2,7 +2,7 @@
 
 about ?
 
-Due to disapled function in the application, this vulnerability falid ;) 
+Due to disapled functions in the application, vulnerability become falid ;) 
 
 # DEMO 
 
