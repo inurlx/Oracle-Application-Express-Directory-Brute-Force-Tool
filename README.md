@@ -1,8 +1,8 @@
 # OracleExpressVulnerability
 
-about ?
+# ABOUT 
 
-Due to disapled functions in the application, vulnerability become falid ;) 
+Due to disapled functions in the application, It just become vulnerable ;) 
 
 # DEMO 
 
