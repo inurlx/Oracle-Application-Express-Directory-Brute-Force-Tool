@@ -2,7 +2,7 @@
 
 # ABOUT 
 
-Due to disapled functions in the application, It just become vulnerable ;) 
+Due to disabled functions in the application, It just became vulnerable ;) 
 
 # DEMO 
 
