@@ -1,4 +1,4 @@
-# Oracle Application Express Directory Brute Forcer
+# Oracle Application Express Directory Brute Force Tool
 
 # CONTACT 
 
